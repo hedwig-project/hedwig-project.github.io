@@ -208,7 +208,7 @@ section.videos {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/bg-module.png");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
