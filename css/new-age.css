@@ -205,6 +205,14 @@ section.videos {
   background: url("../img/bg-pattern-alt.png"), #3b94dc;
 }
 
+section.videos .video-item {
+  padding: 20px;
+}
+
+section.videos .video-thumbnail {
+  max-width: 100%;
+}
+
 section.cta {
   position: relative;
   padding: 250px 0;
