@@ -210,7 +210,7 @@ section.videos .video-item {
 }
 
 section.videos .video-thumbnail {
-  max-width: 100%;
+  width: 100%;
 }
 
 section.cta {
